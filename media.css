@@ -1,0 +1,115 @@
+@media only screen and (max-width: 768px) {
+  #navigation > div > img {
+      width: 50px; /* Adjusted for responsiveness */
+      height: 40px; /* Adjusted for responsiveness */
+      margin-left: 1vw; /* Adjusted for responsiveness */
+  }
+
+  #navigation {
+      margin-top: 1vh; /* Adjusted for responsiveness */
+  }
+
+  #navigation > ul {
+      margin-right: 3vw; /* Adjusted for responsiveness */
+  }
+
+  .DropHome {
+      width: 30vw; /* Adjusted for responsiveness */
+      margin-top: 1vh; /* Adjusted for responsiveness */
+      margin-left: 1vw; /* Adjusted for responsiveness */
+  }
+
+  #Header-container {
+      padding-top: 5vh; /* Adjusted for responsiveness */
+  }
+
+  #Header-container > h1 {
+      width: 80vw; /* Adjusted for responsiveness */
+      margin: 2vh auto; /* Adjusted for responsiveness */
+      padding: 2vh 2vw; /* Adjusted for responsiveness */
+      font-size: 6vw; /* Adjusted for responsiveness */
+  }
+
+  #Header-container > p {
+      margin-bottom: 5vh; /* Adjusted for responsiveness */
+      font-size: 3vw; /* Adjusted for responsiveness */
+  }
+
+  #socielIcon > a > i {
+      height: 4vh; /* Adjusted for responsiveness */
+      width: 4vh; /* Adjusted for responsiveness */
+      margin: auto 0.5vw; /* Adjusted for responsiveness */
+      font-size: 4vh; /* Adjusted for responsiveness */
+  }
+
+  #Header-container > button {
+      font-size: 3vw; /* Adjusted for responsiveness */
+      margin-top: 2vh; /* Adjusted for responsiveness */
+      padding: 1vh 2vw; /* Adjusted for responsiveness */
+      width: 30vw; /* Adjusted for responsiveness */
+  }
+
+  #RegisterForm {
+      width: 90vw; /* Adjusted for responsiveness */
+      left: 2vw; /* Adjusted for responsiveness */
+      top: -35vh; /* Adjusted for responsiveness */
+  }
+
+  #MainPart {
+      padding: 5vh 2vw; /* Adjusted for responsiveness */
+  }
+
+  .FIsection,
+  .SEsection,
+  .THsection {
+      flex: 1 1 90%; /* Adjusted for responsiveness */
+      margin: 1vh auto; /* Adjusted for responsiveness */
+  }
+
+  .Header2nd::after {
+      top: 3vh; /* Adjusted for responsiveness */
+      width: 20vw; /* Adjusted for responsiveness */
+  }
+
+  #Main2nd {
+      padding: 3vh 2vw; /* Adjusted for responsiveness */
+  }
+
+  #MainMINI > div > img {
+      width: 80vw; /* Adjusted for responsiveness */
+      top: 5vh; /* Adjusted for responsiveness */
+      left: 10vw; /* Adjusted for responsiveness */
+  }
+
+  .aboutArea {
+      width: 80vw; /* Adjusted for responsiveness */
+      top: 5vh; /* Adjusted for responsiveness */
+  }
+
+  .aboutArea > button {
+      margin: 3vh auto; /* Adjusted for responsiveness */
+  }
+
+  #Main3rd {
+      padding: 2vh 2vw; /* Adjusted for responsiveness */
+  }
+
+  #Box_Item {
+      width: 90vw; /* Adjusted for responsiveness */
+      padding: 3vh 2vw; /* Adjusted for responsiveness */
+  }
+
+  #Fourth_main_sectionDiv {
+      width: 90vw; /* Adjusted for responsiveness */
+  }
+
+  .box_count {
+      width: 40vw; /* Adjusted for responsiveness */
+      margin: 3vh auto; /* Adjusted for responsiveness */
+  }
+
+  .Rating-section-container {
+      width: 90vw; /* Adjusted for responsiveness */
+      padding: 2vh 2vw; /* Adjusted for responsiveness */
+  }
+}
